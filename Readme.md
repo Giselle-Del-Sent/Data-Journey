@@ -19,7 +19,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 ```plaintext
 Data-Journey/
 ├── Projeto_Receita_Tributária.ipynb      # Notebook principal com a análise
-├── data/                                 # Dados utilizados na análise
+├── Data/                                 # Dados utilizados na análise
 │   └── Tabela 2 - Tributo e Competência.csv
 ├── Readme.md                             # Documentação do projeto
 ```
