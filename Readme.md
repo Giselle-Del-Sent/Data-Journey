@@ -27,10 +27,10 @@ Data-Journey/
 
 ## 📌 Objetivos da Análise
 
-- Verificar a evolução da arrecadação tributária ao longo dos anos.
-- Avaliar a representatividade dos principais tributos.
-- Investigar o comportamento da receita por categoria econômica.
-- Identificar possíveis tendências relevantes.
+- Analisar a evolução da arrecadação tributária no Brasil ao longo dos anos, identificando tendências e variações significativas.
+- Avaliar a representatividade dos principais tributos, como ICMS, IR e Cofins, na composição da receita total.
+- Investigar o comportamento da receita por categoria econômica, como bens e serviços, renda, entre outros.
+- Identificar padrões e insights relevantes que possam contribuir para uma melhor compreensão da estrutura tributária brasileira.
 
 ---
 
@@ -44,19 +44,19 @@ git clone https://github.com/Giselle-Del-Sent/Data-Journey.git
 
 ## 📈 Exemplos de Resultados
 
-- 📊 Gráfico com a evolução da receita tributária por ano.
-- 📊 Comparativo entre os principais tributos arrecadados (ex: ICMS, IR, Cofins).
-- 📊 Receita total por ente federativo (federal, estadual, municipal).
-- 📊 Distribuição da arrecadação por categoria econômica (bens e serviços, renda etc).
+- 📊 Gráfico de evolução da receita tributária por ano, destacando o crescimento ou declínio ao longo do tempo.
+- 📊 Comparativo entre os principais tributos arrecadados, evidenciando quais têm maior impacto na receita total.
+- 📊 Distribuição da arrecadação por ente federativo (federal, estadual, municipal), permitindo visualizar a participação de cada esfera.
+- 📊 Análise da arrecadação por categoria econômica, mostrando quais setores contribuem mais significativamente para a receita tributária.
 
 ---
 
 ## 💡 Conclusões
 
-- A arrecadação tributária brasileira apresentou tendência de crescimento ao longo do período analisado.
-- Tributos como ICMS, IR e Cofins têm alta representatividade na composição da receita.
-- A esfera federal é responsável pela maior parcela da arrecadação.
-- A categoria econômica de bens e serviços destaca-se como principal fonte de receita.
+- A arrecadação tributária brasileira apresentou uma tendência de crescimento ao longo do período analisado, com variações em determinados anos.
+- Tributos como ICMS, IR e Cofins demonstraram alta representatividade, sendo responsáveis por uma parcela significativa da receita total.
+- A esfera federal concentrou a maior parte da arrecadação, seguida pelas esferas estadual e municipal.
+- A categoria econômica de bens e serviços destacou-se como a principal fonte de receita, indicando a importância desse setor na composição tributária.
 
 ---
 
