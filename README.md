@@ -10,18 +10,19 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 - Jupyter Notebook
 - pandas
 - matplotlib
-- seaborn (sugestão para futuras melhorias)
 - numpy
 
 ---
 
 ## 📁 Estrutura do Projeto
 
+```plaintext
 Data-Journey/
 ├── Projeto_Receita_Tributária.ipynb
-├── data/ # (sugestão de pasta para os dados)
-├── images/ # (sugestão de pasta para os gráficos exportados)
+├── data/                 # (sugestão de pasta para os dados)
+├── images/               # (sugestão de pasta para os gráficos exportados)
 └── README.md
+```
 
 ---
 
