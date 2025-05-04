@@ -38,24 +38,26 @@ Data-Journey/
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Giselle-Del-Sent/Data-Journey.git
+git clone https://github.com/Giselle-Del-Sent/Data-Journey.git```
 
 ## 📈 Exemplos de Resultados
 
-- 📌 Gráfico de evolução da receita tributária (ano a ano).
-- 📌 Distribuição da arrecadação por tipo de imposto.
-- 📌 Receita por ente federativo (federal, estadual, municipal).
+- 📊 Gráfico com a evolução da receita tributária por ano.
+- 📊 Comparativo entre os principais tributos arrecadados (ex: ICMS, IR, Cofins).
+- 📊 Receita total por ente federativo (federal, estadual, municipal).
+- 📊 Distribuição da arrecadação por categoria econômica (bens e serviços, renda etc).
 
 ## 💡 Conclusões
 
-- A arrecadação tributária cresceu significativamente nos últimos anos.
-- Tributos como ICMS e IR têm maior peso na composição da receita.
-- A categoria de bens e serviços é predominante na base arrecadatória.
+- A arrecadação tributária brasileira apresentou tendência de crescimento ao longo do período analisado.
+- Tributos como ICMS, IR e Cofins têm alta representatividade na composição da receita.
+- A esfera federal é responsável pela maior parcela da arrecadação.
+- A categoria econômica de bens e serviços destaca-se como principal fonte de receita.
 
 ## 📃 Licença
 
-Distribuído livremente para fins acadêmicos e de portfólio.
+Este projeto é de livre uso para fins educacionais e portfólio. Caso deseje utilizar em outras finalidades, entre em contato com a autora.
 
 ## ✍️ Autoria
 
-Projeto desenvolvido por [Giselle Del Sent](https://github.com/Giselle-Del-Sent) como parte de sua formação em Análise de Dados
+Projeto desenvolvido por [Giselle Del Sent](https://github.com/Giselle-Del-Sent) como parte de sua formação prática em Análise de Dados com Python.
