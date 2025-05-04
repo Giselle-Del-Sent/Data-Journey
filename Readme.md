@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.11.12
 - Jupyter Notebook
 - pandas
 - matplotlib
@@ -19,8 +19,8 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 ```plaintext
 Data-Journey/
 ├── Projeto_Receita_Tributária.ipynb
-├── data/                 # (sugestão de pasta para os dados)
-├── images/               # (sugestão de pasta para os gráficos exportados)
+├── data/
+├── images/            
 └── README.md
 ```
 
@@ -58,6 +58,12 @@ git clone https://github.com/Giselle-Del-Sent/Data-Journey.git
 - Tributos como ICMS, IR e Cofins têm alta representatividade na composição da receita.
 - A esfera federal é responsável pela maior parcela da arrecadação.
 - A categoria econômica de bens e serviços destaca-se como principal fonte de receita.
+
+---
+
+## 📚 Referências
+
+- [Carga Tributária - Dados Abertos](https://dados.gov.br/dados/conjuntos-dados/carga-tributria): Conjunto de dados fornecido pela Receita Federal, disponível no portal dados.gov.br, contendo informações detalhadas sobre a arrecadação tributária brasileira com base em diferentes categorias econômicas e tipos de tributos.
 
 ---
 
