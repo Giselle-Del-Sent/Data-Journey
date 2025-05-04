@@ -17,7 +17,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-Data-Journey/
+analise-da-receita-tributaria-brasileira/
 ├── data/
 │   └── Tabela 2 - Tributo e Competência.csv  # Dados utilizados na análise
 ├── Projeto_Receita_Tributária.ipynb          # Notebook principal
