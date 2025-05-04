@@ -38,7 +38,9 @@ Data-Journey/
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Giselle-Del-Sent/Data-Journey.git```
+git clone https://github.com/Giselle-Del-Sent/Data-Journey.git
+```
+---
 
 ## 📈 Exemplos de Resultados
 
@@ -47,6 +49,8 @@ git clone https://github.com/Giselle-Del-Sent/Data-Journey.git```
 - 📊 Receita total por ente federativo (federal, estadual, municipal).
 - 📊 Distribuição da arrecadação por categoria econômica (bens e serviços, renda etc).
 
+---
+
 ## 💡 Conclusões
 
 - A arrecadação tributária brasileira apresentou tendência de crescimento ao longo do período analisado.
@@ -54,9 +58,13 @@ git clone https://github.com/Giselle-Del-Sent/Data-Journey.git```
 - A esfera federal é responsável pela maior parcela da arrecadação.
 - A categoria econômica de bens e serviços destaca-se como principal fonte de receita.
 
+---
+
 ## 📃 Licença
 
 Este projeto é de livre uso para fins educacionais e portfólio. Caso deseje utilizar em outras finalidades, entre em contato com a autora.
+
+---
 
 ## ✍️ Autoria
 
