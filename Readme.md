@@ -18,9 +18,15 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 
 ```plaintext
 Data-Journey/
-├── Projeto_Receita_Tributária.ipynb      # Notebook principal com a análise
-├── Tabela 2 - Tributo e Competência.csv  # Dados utilizados na análise
-├── Readme.md                             # Documentação do projeto
+├── data/
+│   └── Tabela 2 - Tributo e Competência.csv  # Dados utilizados na análise
+├── Projeto_Receita_Tributária.ipynb          # Notebook principal
+├── images/
+│   ├── evolucao_icms.png
+│   ├── evolucao_ir.png
+│   └── evolucao_cofins.png
+├── README.md                                 # Documentação do projeto
+└── LICENSE                                   # Licença de uso
 ```
 
 ---
