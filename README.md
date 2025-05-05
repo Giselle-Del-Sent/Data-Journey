@@ -7,7 +7,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 ## 🧰 Tecnologias Utilizadas
 
 - Python 3.11.12
-- Jupyter Notebook
+- Google Colab
 - pandas
 - matplotlib
 - numpy
