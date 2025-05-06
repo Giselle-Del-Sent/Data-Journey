@@ -20,11 +20,8 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 analise-da-receita-tributaria-brasileira/
 ├── data/
 │   └── Tabela 2 - Tributo e Competência.csv  # Dados utilizados na análise
-├── Projeto_Receita_Tributária.ipynb          # Notebook principal
-├── images/
-│   ├── evolucao_icms.png
-│   ├── evolucao_ir.png
-│   └── evolucao_cofins.png
+├── projeto_receita_tributaria.ipynb          # Notebook principal
+├── images                                    # Gráficos do projeto
 ├── README.md                                 # Documentação do projeto
 └── LICENSE                                   # Licença de uso
 ```
