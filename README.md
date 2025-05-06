@@ -18,10 +18,12 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados de 
 
 ```plaintext
 analise-da-receita-tributaria-brasileira/
-├── data/
-│   └── Tabela 2 - Tributo e Competência.csv  # Dados utilizados na análise
+├── data/                                     # Dados utilizados na análise
+│   └── tabela_2_tributo_e_competencia.csv    
 ├── projeto_receita_tributaria.ipynb          # Notebook principal
-├── images                                    # Gráficos do projeto
+├── images/                                   # Gráficos do projeto
+│   └── geral
+│   └── por_imposto
 ├── README.md                                 # Documentação do projeto
 └── LICENSE                                   # Licença de uso
 ```
@@ -31,7 +33,7 @@ analise-da-receita-tributaria-brasileira/
 ## 📌 Objetivos da Análise
 
 - Analisar a evolução da arrecadação tributária no Brasil ao longo dos anos, identificando tendências e variações significativas.
-- Avaliar a representatividade dos principais tributos, como ICMS, IR e Cofins, na composição da receita total.
+- Avaliar a representatividade dos principais tributos na composição da receita total.
 - Investigar o comportamento da receita por categoria econômica, como bens e serviços, renda, entre outros.
 - Identificar padrões e insights relevantes que possam contribuir para uma melhor compreensão da estrutura tributária brasileira.
 
