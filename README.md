@@ -1,16 +1,27 @@
-# 📊 Análise da Receita Tributária Brasileira
+# 📊 Análise da Receita Tributária Brasileira (2002–2021)
 
-Este projeto tem como objetivo realizar uma análise exploratória dos dados de receita tributária no Brasil, com foco na evolução da arrecadação ao longo dos anos, principais tributos e tendências por categoria econômica.
+Este projeto realiza uma análise exploratória da receita tributária brasileira no período de 2002 a 2021. O objetivo é compreender a evolução da arrecadação dos principais tributos, identificar tendências estruturais e conjunturais e avaliar o impacto de eventos econômicos relevantes sobre a arrecadação pública.
+
+---
+
+## 🎯 Objetivos
+
+- Analisar a evolução histórica da receita tributária em valores absolutos.
+- Avaliar a participação da União, estados e municípios na arrecadação.
+- Investigar o comportamento de tributos específicos como PIS, COFINS, IRPJ, CSLL, IOF, ISS e tributos sobre o comércio exterior.
+- Relacionar variações de receita a eventos econômicos (ex: crises, pandemia, políticas fiscais).
+- Propor caminhos para expansão da análise com base em novos dados ou indicadores.
 
 ---
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3.11.12
-- Google Colab
-- pandas
-- matplotlib
-- numpy
+- **Python 3.11.12**
+- **Google Colab**
+- **Bibliotecas**:
+  - `pandas`
+  - `matplotlib`
+  - `numpy`
 
 ---
 
@@ -30,40 +41,32 @@ analise-da-receita-tributaria-brasileira/
 
 ---
 
-## 📌 Objetivos da Análise
+## 📈 Destaques da Análise
 
-- Analisar a evolução da arrecadação tributária no Brasil ao longo dos anos, identificando tendências e variações significativas.
-- Avaliar a representatividade dos principais tributos na composição da receita total.
-- Investigar o comportamento da receita por categoria econômica, como bens e serviços, renda, entre outros.
-- Identificar padrões e insights relevantes que possam contribuir para uma melhor compreensão da estrutura tributária brasileira.
-
----
-
-## ▶️ Como Executar o Projeto
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/Giselle-Del-Sent/Data-Journey.git
-```
----
-
-## 📈 Exemplos de Resultados
-
-- 📊 Gráfico de evolução da receita tributária por ano, destacando o crescimento ou declínio ao longo do tempo.
-- 📊 Comparativo entre os principais tributos arrecadados, evidenciando quais têm maior impacto na receita total.
-- 📊 Distribuição da arrecadação por ente federativo (federal, estadual, municipal), permitindo visualizar a participação de cada esfera.
-- 📊 Análise da arrecadação por categoria econômica, mostrando quais setores contribuem mais significativamente para a receita tributária.
+- A União concentra cerca de 74% da arrecadação tributária total no período analisado.
+- O ICMS, de competência estadual, é o imposto com maior arrecadação individual.
+- Tributos como IRPJ e CSLL mostraram forte sensibilidade a crises econômicas.
+- O IOF teve comportamento oscilante, refletindo sua utilização como instrumento de política econômica.
+- O impacto da pandemia foi visível em quase todos os tributos, com queda em 2020 e recuperação em 2021.
 
 ---
 
-## 💡 Conclusões
+## 📌 Possibilidades de Expansão
 
-- A arrecadação tributária brasileira apresentou uma tendência de crescimento ao longo do período analisado, com variações em determinados anos.
-- Tributos como ICMS, IR e Cofins demonstraram alta representatividade, sendo responsáveis por uma parcela significativa da receita total.
-- A esfera federal concentrou a maior parte da arrecadação, seguida pelas esferas estadual e municipal.
-- A categoria econômica de bens e serviços destacou-se como a principal fonte de receita, indicando a importância desse setor na composição tributária.
+- **Atualização com dados pós-2021**, para incluir o período pós-pandemia e reformas fiscais.
+- **Correção dos valores pela inflação**, viabilizando comparações reais ao longo do tempo.
+- **Desagregação regional**, caso sejam disponibilizados dados por estado ou município.
+- **Integração com indicadores socioeconômicos**, como PIB per capita, IDH ou população.
+- **Modelagem preditiva**, utilizando séries temporais para estimar arrecadações futuras.
 
 ---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Giselle-Del-Sent/analise-da-receita-tributaria-brasileira.git
+   cd analise-da-receita-tributaria-brasileira
 
 ## 📚 Referências
 
